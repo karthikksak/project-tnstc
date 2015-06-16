@@ -1,2 +1,2 @@
-# project-tnstc
-This is a simple effort to rsdesign Tamil nadu transportation
+hi i am karthik
+this is my first commit
